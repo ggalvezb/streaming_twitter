@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3987430b8c26e89603bfcfcab43bcf9d",
+    "revision": "b515a056b28a85fc879b0141ef9e8d89",
     "url": "/streaming_twitter/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/streaming_twitter/static/css/2.ed439b8d.chunk.css"
   },
   {
-    "revision": "b3a64b9fe7b09003f157",
+    "revision": "a5fc042ae327a3e3a83e",
     "url": "/streaming_twitter/static/css/main.5facb584.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/streaming_twitter/static/js/2.e4aa6651.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3a64b9fe7b09003f157",
-    "url": "/streaming_twitter/static/js/main.cc1067ad.chunk.js"
+    "revision": "a5fc042ae327a3e3a83e",
+    "url": "/streaming_twitter/static/js/main.a37b8b8e.chunk.js"
   },
   {
     "revision": "cae60d3de7b70812a45b",
